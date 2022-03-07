@@ -1,2 +1,0 @@
-com/username/hellomano/BuildConfig.java
- com.username.hellomano.BuildConfig
